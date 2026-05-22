@@ -28,11 +28,11 @@ ecommerce-website/
 
 ## 🚀 Live Demo
 
-🌐 https://yourprojectlink.ccbp.tech
+🌐 https://flybuyshopp.ccbp.tech
 
 ## 📸 Preview
 
-Add project screenshots here.
+Open - image.png
 
 ## 🎯 Purpose
 
