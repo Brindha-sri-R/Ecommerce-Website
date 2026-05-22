@@ -1,56 +1,50 @@
-<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/6ee7f57e-68a9-45f4-84a0-d6faf1b3043d" />
+# 🛒 Ecommerce Website
 
-# 🌍 Tourists Website – README.md
-
-```md
-# 🌍 Tourists Website
-
-A simple and responsive tourism website created using HTML and CSS.  
-This project showcases famous tourist destinations, travel information, and attractive UI design for users who love exploring places.
+A responsive ecommerce website developed using HTML, CSS, and Bootstrap.  
+This project showcases an online shopping interface with product sections, banners, offers, and a user-friendly design.
 
 ## ✨ Features
 
-- Responsive design 📱
-- Beautiful tourist destination cards 🏞️
-- Navigation bar and smooth scrolling 🔗
-- Attractive homepage layout 🎨
-- Interactive user interface ⚡
-- Easy to customize and expand
+- Responsive layout 📱
+- Product showcase section 🛍️
+- Attractive homepage banners 🎨
+- Navigation bar and categories 🔗
+- Bootstrap components ⚡
+- Clean and modern UI ✨
 
 ## 🛠️ Technologies Used
 
 - HTML
 - CSS
+- Bootstrap 
 
 ## 📂 Project Structure
 
-tourists-website/
-│-
+ecommerce-website/
+│
 ├── index.html
 ├── style.css
 └── images/
 
-## 🚀 Live Website
+## 🚀 Live Demo
 
-Explore the project here:  
-🌐 https://mytourpage.ccbp.tech
+🌐 https://yourprojectlink.ccbp.tech
 
 ## 📸 Preview
 
-open - image.png
-
+Add project screenshots here.
 
 ## 🎯 Purpose
 
-This project was developed to improve frontend development skills and create a visually appealing tourism-based website.
+This project was created to improve frontend development skills and build a modern ecommerce user interface using Bootstrap.
 
-## 🙌 Future Improvements
+## 🔮 Future Improvements
 
-- Add booking functionality
-- Include dark mode 🌙
-- Add backend integration
-- Improve animations and UI
+- Add shopping cart 🛒
+- User authentication 🔐
+- Product filtering 🔍
+- Payment integration 💳
 
 ## 👩‍💻 Author
 
-Brindha sri🤍
+Brindha sri 🤍
