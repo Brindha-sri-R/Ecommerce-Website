@@ -21,7 +21,7 @@ This project showcases an online shopping interface with product sections, banne
 ## 📂 Project Structure
 
 ecommerce-website/
-│
+|-
 ├── index.html
 ├── style.css
 └── images/
